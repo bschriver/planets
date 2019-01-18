@@ -1,3 +1,10 @@
 new hello
 changes 2
+<<<<<<< HEAD
 conflict
+=======
+Cold and dry, but everything is my favorite color
+The two moons may be a problem for Wolfman
+But the Mummy will appreciate the lack of humidity
+This line added to Wolfman's copy
+>>>>>>> 54a6c1dbed53a75302b0bacaa9c2f6fb423081cd
